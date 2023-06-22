@@ -10,4 +10,13 @@ public:
 		FRONT = -1;
 		REAR = -1;
 	}
+
+	void insert() {
+		int num;
+		count << "Enter a number: ";
+		cin >> num;
+		count << endl;
+
+
+	}
 };
